@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  background: #000;
+  color: #00f7ff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  border-bottom: 1px solid #00f7ff;
+}
+
+section {
+  padding: 15px;
+}
+
+button {
+  background: #00f7ff;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.card {
+  border: 1px solid #00f7ff;
+  padding: 10px;
+  margin: 10px 0;
+}
